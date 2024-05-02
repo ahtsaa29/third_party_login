@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709427293394",
+    "project_id": "carry-or-drag",
+    "storage_bucket": "carry-or-drag.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709427293394:android:5da17adb468faf5076d10b",
+        "android_client_info": {
+          "package_name": "com.example.carry_or_drag"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC9iFy3XQSh4Rn9l4WbXCsgk_nBTBhq9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
